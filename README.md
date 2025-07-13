@@ -132,7 +132,7 @@ We believe that everyone deserves access to personalized career guidance, regard
 - ✅ Core AI tutoring system
 - ✅ Basic roadmap generation
 - ✅ User profile management
-- ✅ LEO-AI mentor integration
+- ✅ Zoya mentor integration
 
 ### Phase 2: Enhancement (Q2 2025)
 - 🔄 Advanced assessment system
